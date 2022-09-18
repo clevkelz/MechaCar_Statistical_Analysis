@@ -78,41 +78,10 @@ H<sub>a</sub>:  The ongoing carrying and maintenance costs for MechaCars is eith
 
 The optimal results for MechaCar is that the carrying costs would not meet the null hypothesis and would be statistically below the competition.
 
+### Statistical Test to Use
 
+T-tests would be the most fitting test to use.  In this case, separate t-tests should be performed for the two different measurement periods (as of five years and as of ten years).    In addition to the t-tests, it may be helpful to produce summary statistics, such as the mean, median, and variance determine how much the cost of ownership rises from the five-year to the ten-year period.
 
+### Data Needed
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Projections would need to be made for the carrying costs of these vehicles.  An independent party that specializes in these types of valuations should be engaged.  This independence will also give additional credence to the study as MechaCar would not want to be associated with undue influence over the results.
