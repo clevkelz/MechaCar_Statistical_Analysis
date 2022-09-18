@@ -62,6 +62,26 @@ The mean psi of suspension coils in Lot 2 from the t-test is not statistically s
 
 The mean PSI of suspension coils in Lot 1 from the t-test is statistically significant from the population mean.  The p-value of 0.04168 is below the common significance level of 0.05.  Thus, there is sufficient evidence to reject the null hypothesis and to conclude that the two means are not statistically similar.  This lot has the most inconsistencies and variances of the three lots and, as described earlier, is outside of the PSI specifications.  
 
+## Study Design:  MechaCar vs Competition
+
+Given the current environment of rising costs, including the high cost of gasoline, and the lingering impacts on the supply chain due to the COVID epidemic which make it more difficult to find replacement parts or to purchase a new or even used car, an useful statistical study to undertake is to compare the proposed maintenance and lifetime costs of owing a MechaCar compared to its competition.  According to a 2018 survey, the average age of ownership for a car is over eight years.  (https://www.iseecars.com/how-long-people-keep-cars-study).  While the initial cost of purchasing a car is probably still an important factor when deciding to buy a car, vehicles with ongoing maintenance and quality issues can drain a driver’s budget.
+
+### Metric to Test
+
+MechaCar’s projected cumulative maintenance costs at year five and year ten compared to its competitors would be the proposed measurement.
+
+### Null and Alternative Hypothesis
+
+H<sub>0</sub>:  The ongoing carrying and maintenance costs for MechaCars are similar to the competition.
+
+H<sub>a</sub>:  The ongoing carrying and maintenance costs for MechaCars is either statically below or above the competition.
+
+The optimal results for MechaCar is that the carrying costs would not meet the null hypothesis and would be statistically below the competition.
+
+
+
+
+
 
 
 
