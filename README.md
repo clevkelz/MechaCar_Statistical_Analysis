@@ -36,6 +36,38 @@ _Lot Statistics_
 
 The design specifications for the entirety MechaCar suspension coils are that the variance must not exceed 100 psi.  While the overall specification is met, the variance for lot 3 significantly exceeds this benchmark.  This lot should be inspected and the coils will likely need to be recalibrated or redone.
 
+## T-Tests on Suspension Coils
+
+### T-Test on All Coils
+
+![image](https://user-images.githubusercontent.com/106293233/190883311-3297fbbc-a0b3-4f87-a733-667a016799ff.png)
+
+The mean psi of all of suspension coils from the t-test is not statistically significant from the population mean.  The p-value of 0.06028 is above the common significance level of 0.05.  Therefore, there is insufficient evidence to reject the null hypothesis and the two means are statistically similar.
+
+### T-Test on Lot 1
+
+![image](https://user-images.githubusercontent.com/106293233/190883341-01a40e5f-8c13-4692-af5e-0470504bcb2c.png)
+
+The mean psi of suspension coils in Lot 1 from the t-test is not statistically significant from the population mean.  The p-value of 1 is above the common significance level of 0.05.  Therefore, there is insufficient evidence to reject the null hypothesis and the two means are statistically similar.  Given the results of the t-test and the information provided in the summary results, the PSI of the suspension coils from the Lot 1 is the most consistent and has the least amount of variation of the three lots.
+
+### T-Test on Lot 2
+
+![image](https://user-images.githubusercontent.com/106293233/190883404-e4fe92b7-c2e0-4ef4-b3db-c6a34852dcb7.png)
+
+The mean psi of suspension coils in Lot 2 from the t-test is not statistically significant from the population mean.  The p-value of 0.6072 is above the common significance level of 0.05.  Therefore, there is insufficient evidence to reject the null hypothesis and the two means are statistically similar.  Given the results of the t-test and the information provided in the summary results, the PSI of the suspension coils from the Lot 2 has some inconsistencies and variations but not to the extent of those in Lot 3.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
