@@ -56,6 +56,18 @@ The mean psi of suspension coils in Lot 1 from the t-test is not statistically s
 
 The mean psi of suspension coils in Lot 2 from the t-test is not statistically significant from the population mean.  The p-value of 0.6072 is above the common significance level of 0.05.  Therefore, there is insufficient evidence to reject the null hypothesis and the two means are statistically similar.  Given the results of the t-test and the information provided in the summary results, the PSI of the suspension coils from the Lot 2 has some inconsistencies and variations but not to the extent of those in Lot 3.
 
+### T-Test on Lot 3
+
+![image](https://user-images.githubusercontent.com/106293233/190883467-5b65ba7b-682b-4f8b-8002-699e9951e0ff.png)
+
+The mean PSI of suspension coils in Lot 1 from the t-test is statistically significant from the population mean.  The p-value of 0.04168 is below the common significance level of 0.05.  Thus, there is sufficient evidence to reject the null hypothesis and to conclude that the two means are not statistically similar.  This lot has the most inconsistencies and variances of the three lots and, as described earlier, is outside of the PSI specifications.  
+
+
+
+
+
+
+
 
 
 
