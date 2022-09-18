@@ -24,7 +24,24 @@ The slope of the linear model is not zero since the p-value is not zero (the p-v
 
 The linear model is reasonably effective in predicting the mpg of the prototypes given the five independent measures captured in this dataset given the r-squared value of .7149 (see the text highlighted in the red box in the above screen shot).  
 
-## 
+## Summary Statistics on Suspension Coils
+
+_Overall Statistics_
+
+![image](https://user-images.githubusercontent.com/106293233/190883218-708fd9a4-00e9-4060-9003-3bc606700d4a.png)
+
+_Lot Statistics_
+
+![image](https://user-images.githubusercontent.com/106293233/190883225-aa5e25c9-001d-4a13-9f00-40dca8f4dfe0.png)
+
+The design specifications for the entirety MechaCar suspension coils are that the variance must not exceed 100 psi.  While the overall specification is met, the variance for lot 3 significantly exceeds this benchmark.  This lot should be inspected and the coils will likely need to be recalibrated or redone.
+
+
+
+
+
+
+
 
 
 
