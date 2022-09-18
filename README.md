@@ -16,6 +16,22 @@ The purpose of this analysis is to:
 
 The **vehicle length**, **ground clearance**, and the **intercept** are statistically unlikely to provide random amount of variance to the linear model.  These factors are highlighted in the green boxes in the above screenshot.  This means that vehicle length and ground clearance have a significant impact on the mpg.  Because the intercept is also statistically significant, this factor also explains a significant amount of the variability in the mpg when the five independent variables of vehicle length, vehicle weight, spoiler angle, ground clearance, and all-wheel drive are equal to zero.  Therefore, vehicle length and ground clearance may need scaling to help improve the predictive power of the model.  This could also mean that other factors not included in the regression analysis impact the mpg of the prototypes.
 
+### Slope of the Linear Model
+
+The slope of the linear model is not zero since the p-value is not zero (the p-value is highlighted in a black box in the above screenshot).  The p-value is also less than a rather high significance level of .05 which means that random chance cannot be fully attributed to the relationship between the mpg and the five independent variables.
+
+### Effectiveness of the Linear Model in Predicting MPG of the MechaCar Prototypes
+
+The linear model is reasonably effective in predicting the mpg of the prototypes given the five independent measures captured in this dataset given the r-squared value of .7149 (see the text highlighted in the red box in the above screen shot).  
+
+## 
+
+
+
+
+
+
+
 
 
 
